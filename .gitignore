@@ -1,0 +1,3 @@
+*.mdb
+SampleClient/obj/
+SampleServer/obj/

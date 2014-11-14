@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Library Name="BusinessLogicLibrary" UID="{165FDC15-1848-4A09-93BB-BFB39AE9C113}" Version="3.0">
+<Services>
+<Service Name="BusinessLogicService" UID="{A5566DB5-FF4A-449E-9976-88073A3B3344}">
+<Interfaces>
+<Interface Name="Default" UID="{FDBBF90D-97A3-4BC2-AB36-0D0917970837}">
+<Operations>
+<Operation Name="Process" UID="{222F456C-25C3-48DA-9372-CEC16D358A20}">
+<Parameters>
+<Parameter Name="Result" DataType="Integer" Flag="Result">
+</Parameter>
+<Parameter Name="Value" DataType="Utf8String" Flag="In" >
+</Parameter>
+</Parameters>
+</Operation>
+<Operation Name="Reverse" UID="{F0A34F5C-1D5E-4772-9567-3185A01CB47C}">
+<Parameters>
+<Parameter Name="Result" DataType="WideString" Flag="Result">
+</Parameter>
+<Parameter Name="Value" DataType="WideString" Flag="In" >
+</Parameter>
+</Parameters>
+</Operation>
+</Operations>
+</Interface>
+</Interfaces>
+</Service>
+</Services>
+<Structs>
+</Structs>
+<Enums>
+</Enums>
+<Arrays>
+</Arrays>
+</Library>

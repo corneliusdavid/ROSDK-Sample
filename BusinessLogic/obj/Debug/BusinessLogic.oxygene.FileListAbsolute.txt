@@ -1,0 +1,14 @@
+V:\tests\ROSDK\BusinessLogic\bin\Debug\BusinessLogic.dll
+V:\tests\ROSDK\BusinessLogic\bin\Debug\BusinessLogic.dll.mdb
+V:\tests\ROSDK\BusinessLogic\bin\Debug\BusinessLogic.pdb
+V:\tests\ROSDK\BusinessLogic\obj\Debug\BusinessLogic.Properties.Resources.resources
+V:\tests\ROSDK\BusinessLogic\obj\Debug\BusinessLogic.oxygene.GenerateResource.Cache
+V:\tests\ROSDK\BusinessLogic\obj\Debug\BusinessLogic.dll
+V:\tests\ROSDK\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\David\Documents\dev\tests\ROSDK\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\David\Documents\dev\tests\ROSDK\BusinessLogic\bin\Debug\BusinessLogic.dll.mdb
+C:\Users\David\Documents\dev\tests\ROSDK\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\David\Documents\dev\tests\ROSDK\bin\BusinessLogic.dll
+C:\Users\David\Documents\dev\tests\ROSDK\BusinessLogic\obj\Debug\BusinessLogic.Properties.Resources.resources
+C:\Users\David\Documents\dev\tests\ROSDK\BusinessLogic\obj\Debug\BusinessLogic.oxygene.GenerateResource.Cache
+C:\Users\David\Documents\dev\tests\ROSDK\BusinessLogic\obj\Debug\BusinessLogic.dll
